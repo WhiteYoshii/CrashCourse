@@ -1,0 +1,8 @@
+git status - mostra a situação de como está os meus arquivos localmente
+git add nomedoarquivo - demonstra que eu desejo colocar o arquivo na lista de coisas que eu quero commitar
+git commit - demonstra que eu quero colocar o meu commit na lista de coisas que eu quero enviar para a nuvem
+git push - demonstra que eu quero enviar os meus commits, ou seja, as minhas mudanças ou adições locais para a nuvem
+git pull - demonstra que eu quero receber as informações da nuvem no meu local. Tomar cuidado que isso pode sobrescrever as minhas mudanças locais
+git stash - uma forma de eu guardar as minhas mudanças locais
+git stash apply - pega a última coisa guardada e aplica no local
+git stash pop - pega a última coisa guardada e aplica no local, e tira do stash
